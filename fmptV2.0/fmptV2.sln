@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fmptV2", "fmptV2.csproj", "{EB65BA3F-B05B-4DE2-9AF9-4C85A233A982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fmptV2.Test", "..\fmptV2.Test\fmptV2.Test.csproj", "{D50E9E29-59DF-4735-BB5B-4859FF832AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB65BA3F-B05B-4DE2-9AF9-4C85A233A982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB65BA3F-B05B-4DE2-9AF9-4C85A233A982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB65BA3F-B05B-4DE2-9AF9-4C85A233A982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB65BA3F-B05B-4DE2-9AF9-4C85A233A982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50E9E29-59DF-4735-BB5B-4859FF832AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50E9E29-59DF-4735-BB5B-4859FF832AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50E9E29-59DF-4735-BB5B-4859FF832AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50E9E29-59DF-4735-BB5B-4859FF832AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E38A60B-F0F1-4B67-A478-4470B32391F8}
+	EndGlobalSection
+EndGlobal
