@@ -6440,11 +6440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\Repository\\fmptV2.0\\fmptV2.0\\fmptV2.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\Repository\\VL.APISample\\fmptV2.0\\fmptV2.csproj",
       "projectName": "fmptV2",
-      "projectPath": "D:\\WorkSpace\\Repository\\fmptV2.0\\fmptV2.0\\fmptV2.csproj",
+      "projectPath": "D:\\WorkSpace\\Repository\\VL.APISample\\fmptV2.0\\fmptV2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\Repository\\fmptV2.0\\fmptV2.0\\obj\\",
+      "outputPath": "D:\\WorkSpace\\Repository\\VL.APISample\\fmptV2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
